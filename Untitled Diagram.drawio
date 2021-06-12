@@ -1,1 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2021-06-11T11:18:35.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" version="14.7.7" etag="NbgeRYE9M3Tz_P5kyZtF" type="github"><diagram id="dOq-DayVhO_afka4RhEU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-12T11:43:45.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="WXMSmDxyYbjAjTH7NPjn" version="14.7.7" type="github">
+  <diagram id="dOq-DayVhO_afka4RhEU" name="Page-1">
+    <mxGraphModel dx="976" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object label="Customer&#xa;" placeholders="1" vcb="" id="wEUuan76x5p37X9jANXv-1">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;labelBackgroundColor=none;" vertex="1" parent="1">
+            <mxGeometry x="100" y="80" width="80" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="wEUuan76x5p37X9jANXv-7" value="OPEN APP/LOGIN" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="50" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wEUuan76x5p37X9jANXv-9" value="Add values to required fields&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Track%20calories%20%26amp%3Bamp%3B%20steps%20count%2C%26lt%3Bbr%26gt%3Bwater%20intake%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BlabelBackgroundColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22318.75%22%20y%3D%22310%22%20width%3D%22122.5%22%20height%3D%2290%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="321.25" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wEUuan76x5p37X9jANXv-11" value="Provide Essential&amp;nbsp;&lt;br&gt;permissions" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="130" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wEUuan76x5p37X9jANXv-12" value="Track calories &amp;amp; steps count,&lt;br&gt;water intake" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="505" width="122.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wEUuan76x5p37X9jANXv-13" value="Choose Consultant&lt;br&gt;(optional)" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="321.25" y="210" width="122.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wEUuan76x5p37X9jANXv-14" value="Create Diet Plan" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <object label="Consultant" placeholders="1" vcb="" id="wEUuan76x5p37X9jANXv-15">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;labelBackgroundColor=none;" vertex="1" parent="1">
+            <mxGeometry x="110" y="385" width="80" height="120" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
